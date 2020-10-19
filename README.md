@@ -121,21 +121,21 @@ I found out programming was much more than words on a screen, and in reality pro
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>bla 6</b></h5>
+          <h5 class="w3-opacity"><b> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
-          <p>bla 2 ace</p>
+          <p>Recent High school grad</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 7</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
-          <p>Bla3</p>
+          <p>Current College student</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>class of Coding</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
-          <p>bla 4 D</p><br>
+          <p> </p><br>
         </div>
       </div>
 
