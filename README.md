@@ -112,9 +112,9 @@ I found out programming was much more than words on a screen, and in reality pro
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
+          <h5 class="w3-opacity"><b> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i> </h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <p> </p><br>
         </div>
       </div>
 
