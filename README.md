@@ -86,12 +86,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Rubens Portfolio</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Scratch  </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p> <img src="https://learnworthy.net/wp-content/uploads/2019/12/Why-programming-is-the-skill-you-have-to-learn.jpg" alt="alternatetext"> </p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
+          <h5 class="w3-opacity"><b> Literacy Narrative / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
           <p> <h3> 1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	1:30, I looked around everyone elses screen was filled with code already. I was in terror the moment I saw the screen of the person next to me, miles ahead of anyone, he already completed the assignment, it was at this point I had given up. 1:50, the test was at its end, the teacher started to walk around checking where everyone is at.
                <p> <p>                                                                                                                                                                                                                                                          
@@ -103,15 +103,10 @@ I was in my study hall class the next day, when my computer science teacher come
  <p> <p>
 After I studied the functions, After I knew what I was doing it was more fun than I imagined, it felt rewarding when I finally got the program to do what I wanted it to do. after a couple days the program was finished and all that had to be typed in was the SQRs of the house and it would give him the cost for most of the material. Instead of playing videogames I started making my own games from python, Scratch, C++ etc.
 <p> <p>
-I found out programming was much more than words on a screen, and in reality programing is what make electronics able to communicate with us, and do the stuff they do, and sense then I fell in love with programming.  Programming was a lot like learning a new language, there were letters/functions, grammar/syntax, essays/scripts. My audience was a computer that can only understand what I tell it to do in its language and it needed to be 100% literate or the program wont work. Because of that teacher I was inspired to create my own programs to help from day to day life and take on programing as my major. 
-mmmm
-         zs
+I found out programming was much more than words on a screen, and in reality programing is what make electronics able to communicate with us, and do the stuff they do, Sense then I fell in love with programming.  Programming was a lot like learning a new language, there were letters/functions, grammar/syntax, essays/scripts. My audience was a computer that can only understand what I tell it to do in its language and it needed to be 100% literate or the program wont work. Because of that teacher I was inspired to create my own programs to help from day to day life and take on programing as my major. 
+        
+        
           
-          w
-          
-          
-          'w
-          w
           </h3>
           </p>
           <hr>
