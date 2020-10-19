@@ -128,13 +128,13 @@ I found out programming was much more than words on a screen, and in reality pro
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 7</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020</h6>
           <p>Current College student</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>class of Coding</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020+</h6>
           <p> </p><br>
         </div>
       </div>
