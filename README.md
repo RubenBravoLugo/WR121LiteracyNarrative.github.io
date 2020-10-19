@@ -1,7 +1,7 @@
-# WR121LiteracyNarrative.github.
+
 
 HBLJH???
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnworthy.net%2Fwhy-programming-is-the-skill-you-have-to-learn%2F&psig=AOvVaw06ckIuP9uZp1XDoaTad80U&ust=1603210633911000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC8rZSHwewCFQAAAAAdAAAAABAK" alt="alternatetext">
+
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
