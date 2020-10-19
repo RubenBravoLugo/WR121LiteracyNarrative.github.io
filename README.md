@@ -87,7 +87,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Scratch  </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnworthy.net%2Fwhy-programming-is-the-skill-you-have-to-learn%2F&psig=AOvVaw06ckIuP9uZp1XDoaTad80U&ust=1603210633911000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC8rZSHwewCFQAAAAAdAAAAABAK" alt="alternatetext"> </p>
+          <p> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fquora%2F2018%2F06%2F06%2Fwhats-the-best-programming-language-to-learn-if-you-want-to-work-at-a-big-software-company%2F&psig=AOvVaw06ckIuP9uZp1XDoaTad80U&ust=1603210633911000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC8rZSHwewCFQAAAAAdAAAAABAQ" alt="alternatetext"> </p>
           <hr>
         </div>
         <div class="w3-container">
