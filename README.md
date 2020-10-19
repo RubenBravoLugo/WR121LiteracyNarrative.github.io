@@ -93,6 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Literacy Narrative / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i> </h6>
+          <h2> Programming is easy </h2>
           <p> <h3> 1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	1:30, I looked around everyone elses screen was filled with code already. I was in terror the moment I saw the screen of the person next to me, miles ahead of anyone, he already completed the assignment, it was at this point I had given up. 1:50, the test was at its end, the teacher started to walk around checking where everyone is at.
                <p> <p>                                                                                                                                                                                                                                                          
 As he got closer, I imagined the worst he is going to make me call my parents, he is going to yell at me in front of the class. The bell rung and we were told to submit what we had. I was the first one out of that classroom. I struggled learning a programing a language, I was told it was like learning a new language, but it certainly did not feel like it.
@@ -114,6 +115,7 @@ I found out programming was much more than words on a screen, and in reality pro
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i> </h6>
+          <h2> Supporting Document </h2>
           <p> My Literacy topic will be about computer literacy, 
 To capture my audiences attention, I attempted to describe my specific situation vaguely but with some imagery. My aim was that my audience will be interested in the learning more about the imagery and what I am describing, then I introduce my topic. I do believe I set my setting clear, and I did keep int in chronological order.
 I think the best medium for this would be a website because when I think literacy narratives I think of blogs, which makes me think about people posting their life on social media or websites. Website will also establish some credibility for myself given that creating a website requires you to know HTML, a sort of programming language (of course there are softwares like Weebly and My Space that make it way easier).  
