@@ -94,10 +94,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
           <p> 1:05 
-          1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	
-          1:30, I looked around everyone else’s screen was filled with code already.  I was in terror the moment I saw the screen of the person next to me,
-          miles ahead of anyone, he already completed the assignment, it was at this point I had given up.
-          1:50, the test was at its end, the teacher started to walk around checking where everyone is at.
+         
           
           w
           
@@ -111,7 +108,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <p> 1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	
+          1:30, I looked around everyone else’s screen was filled with code already.  I was in terror the moment I saw the screen of the person next to me,
+          miles ahead of anyone, he already completed the assignment, it was at this point I had given up.
+          1:50, the test was at its end, the teacher started to walk around checking where everyone is at. </p><br>
         </div>
       </div>
 
