@@ -32,10 +32,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Yooo</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Welcome</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bend, OR</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>RbravoLugo@cocc.edu</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>CRN</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>CRN#??????</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Programming languages</b></p>
@@ -93,7 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p> <h4> 1:05 mmmmmmmmmmmmmm1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	1:30, I looked around everyone elses screen was filled with code already. I was in terror the moment I saw the screen of the person next to me, miles ahead of anyone, he already completed the assignment, it was at this point I had given up. 1:50, the test was at its end, the teacher started to walk around checking where everyone is at.
+          <p> <h3> 1:05, I stared at the void in front of me, nothing was happening. My screen was empty, clickety clacks resonated repeatedly as the task was revealed. 	1:30, I looked around everyone elses screen was filled with code already. I was in terror the moment I saw the screen of the person next to me, miles ahead of anyone, he already completed the assignment, it was at this point I had given up. 1:50, the test was at its end, the teacher started to walk around checking where everyone is at.
 As he got closer, I imagined the worst he is going to make me call my parents, he is going to yell at me in front of the class. The bell rung and we were told to submit what we had. I was the first one out of that classroom. I struggled learning a programing a language, I was told it was like learning a new language, but it certainly did not feel like it.
 I was in my study hall class the next day, when my computer science teacher comes in and said hey, 
 'may I borrow ruben', I was surprised when he sat me down in his classroom and started to go through the assignment with me. I felt I owed it to him to pay attention. He gave me a B on that assignment and after that lesson I understood the basics of programming, and a another whole word.
@@ -108,7 +108,7 @@ mmmm
           
           'w
           w
-          </h4>
+          </h3>
           </p>
           <hr>
         </div>
