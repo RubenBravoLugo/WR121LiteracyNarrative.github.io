@@ -93,7 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p> 1:05 mmmmmmmmmmmmmmmmmmmm1:30, I looked around everyone else’s screen was filled with code already.mmmm
+          <p> 1:05 mmmmmmmmmmmmmmmmmmmm screen was filled with code already.mmmm
          
           
           w
