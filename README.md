@@ -93,7 +93,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p> 1:05 mmmmmmmmmmmmmm1:05, I stared at the void in front of me, nothing was happening. My screen was empty, As he got closer, I imagined the worst he is going to make me call my parents, he is going to yell at me in front of the class. The bell rung and we were told to submit what we had. I was the first one out of that classroom. I struggled learning a programing a language, I was told it was like learning a new language, but it certainly did not feel like it.
+          <p> 1:05 mmmmmmmmmmmmmmmmmmmmmI was in terror the moment I saw the screen of the person next to me, miles ahead of anyone, he already completed the assignment, it was at this point I had given up. 1:50, the test was at its end, the teacher started to walk around checking where everyone is atmmmm
+         
           
           w
           
